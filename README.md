@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @griimmm
 - 👀 I’m interested in Vision Guided Robots
-- 🌱 I’m currently learning ROS, ROS2, Computer Vision
+- 🌱 I’m currently learning and working on ROS, ROS2, Computer Vision
 - 📫 How to reach me abishek.swaminathan03@gmail.com
 
 <!---
