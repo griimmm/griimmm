@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Abishek
-- 👀 I’m interested in Vision Guided Robots
 - 🌱 I’m currently learning and working with ROS, ROS2, Computer Vision and Reinforcement Learning
 - 📫 How to reach me abishek.swaminathan03@gmail.com
 
