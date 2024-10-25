@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abishek
-- 🌱 I’m currently learning and working with ROS, ROS2 and Reinforcement Learning
+- 🌱 I’m currently learning and working with ROS2 and Reinforcement Learning
 - 📫 How to reach me abishek.swaminathan03@gmail.com
 
 <!---
